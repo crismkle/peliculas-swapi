@@ -1,6 +1,6 @@
 <h1 align="center"> PELÍCULAS DE STAR WARS </h1>
 
-Proyecto simple que consulta las películas de la saga Star Wars.
+Proyecto simple en Java que consulta las películas de la saga Star Wars.
 Usa la API SWAPI para las consultas.
 
 ## :hammer:Funcionalidades del proyecto
