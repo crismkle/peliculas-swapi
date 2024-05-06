@@ -6,6 +6,7 @@ Usa la API SWAPI para las consultas.
 ## :hammer:Funcionalidades del proyecto
 - Pide al usuario el número de película que desaea consultar
 - Muestra por consola el título, el episodio y muestra el *opening_crawl*
+- Genera un Json con la consulta realizada guardando datos
 
 
 ## Despliegue 📦
