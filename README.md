@@ -12,7 +12,7 @@ Usa la API SWAPI para las consultas.
 ## Despliegue 📦
 
 Usar un IDE que soporte Java.
-Instalar la libreía Gson si es necesario.
+Instalar la librería Gson si es necesario.
 Ejecutar por consola.
 
 ## Autor ✒️
